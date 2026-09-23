@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.AuraLink" parent="android:Theme.Material.NoActionBar" />
+</resources>
